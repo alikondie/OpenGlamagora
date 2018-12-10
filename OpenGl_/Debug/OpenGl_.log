@@ -1,0 +1,3 @@
+﻿  main.cpp
+glad.obj : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/INCREMENTAL:NO'
+  OpenGl_.vcxproj -> C:\Users\myamani\Desktop\Projects\Synthèse d'image\OpenGl_\Debug\OpenGl_.exe
